@@ -1,4 +1,5 @@
-let username : string = "umar";
-let password : number = 6789;
+let number1 = 2;
+let number2 = 3;
+let total = number1 + number2;
 
-console.log (username)
+console.log (total);
